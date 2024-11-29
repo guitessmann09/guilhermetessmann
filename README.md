@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme! 👋
 <p align="center">
-<a href="https://www.linkedin.com/in/guilherme-tessmann-89686b319/"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tessmanng9@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/guilherme-tessmann-89686b319/"><img src="https://img.shields.io/badge/-Guilherme%20Tessmann-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tessmanng9@gmail.com"><img src="https://img.shields.io/badge/-tessmanng9@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ### 👨🏻‍💻 Sobre mim
