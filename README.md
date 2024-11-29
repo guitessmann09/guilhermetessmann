@@ -4,24 +4,23 @@
 <a href="mailto:tessmanng9@gmail.com"><img src="https://img.shields.io/badge/-tessmanng9@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h1>👨🏻‍💻 Sobre mim</h1>
+<h2>👨🏻‍💻 Sobre mim</h2>
 
 👨🏻‍💻 &nbsp; Sou um desenvolvedor em formação com 21 anos, atualmente atuando na área administrativa de um quartel em Porto Alegre. Minha paixão por tecnologia começou aos 14 anos, quando comecei a aprender programação com PHP. Desde então, venho me especializando nas tecnologias mais atuais e demandadas para desenvolvimento de software.
 
-### 🛠️ Tecnologias que estou aprendendo
-
+<h2>🛠️ Teconologias que domino</h2>
 **JavaScript** | **React** | **Node.js** | **TypeScript** | **Next.js**
 **Docker** | **PostgreSQL**
 
-### 🎓 Formação e Aprendizado
+<h2>🎓 Formação e Aprendizado</h2>
 
 Atualmente, estou cursando o 2º semestre de Engenharia de Software e continuo me aprimorando de forma autônoma por meio de cursos especializados, como o FullStack Club.
 
-### 🌱 Objetivo
+<h2>🌱 Objetivo</h2>
 
 Estou buscando minha primeira experiência profissional como desenvolvedor, onde possa aplicar meus conhecimentos em criação de aplicações web escaláveis, desenvolvimento com as tecnologias mencionadas, e contribuir para projetos inovadores e desafiadores.
 
-### 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
