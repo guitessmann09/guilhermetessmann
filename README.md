@@ -34,7 +34,7 @@ Estou buscando minha primeira experiência profissional como desenvolvedor, onde
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Next.js](https://img.shields.io/badge/-Next.js.js-333333?style=flat&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
