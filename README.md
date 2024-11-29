@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-- 👨🏻‍💻 &nbsp; Sou um desenvolvedor em formação com 21 anos, atualmente atuando na área administrativa de um quartel em Porto Alegre. Minha paixão por tecnologia começou aos 14 anos, quando comecei a aprender programação com PHP. Desde então, venho me especializando nas tecnologias mais atuais e demandadas para desenvolvimento de software.
+👨🏻‍💻 &nbsp; Sou um desenvolvedor em formação com 21 anos, atualmente atuando na área administrativa de um quartel em Porto Alegre. Minha paixão por tecnologia começou aos 14 anos, quando comecei a aprender programação com PHP. Desde então, venho me especializando nas tecnologias mais atuais e demandadas para desenvolvimento de software.
 
 ### 🛠️ Tecnologias que estou aprendendo
 
-- **JavaScript** | **React** | **Node.js** | **TypeScript** | **Next.js**
-- **Docker** | **PostgreSQL**
+**JavaScript** | **React** | **Node.js** | **TypeScript** | **Next.js**
+**Docker** | **PostgreSQL**
 
 ### 🎓 Formação e Aprendizado
 
