@@ -15,7 +15,7 @@
 
 <h2>🎓 Formação e Aprendizado</h2>
 
-Atualmente, estou cursando o 2º semestre de Engenharia de Software e continuo me aprimorando de forma autônoma por meio de cursos especializados, como o FullStack Club.
+Atualmente, estou cursando o 3º semestre de Engenharia de Software e continuo me aprimorando de forma autônoma por meio de cursos especializados, como o FullStack Club.
 
 <h2>🌱 Objetivo</h2>
 
